@@ -2,7 +2,7 @@
 
 I'm Gabriel Arai!
 
-- I’m currently working at [Westwing]([https://www.westwing.com.br/]) as a Jr Data Analyst
+- I’m currently working at [Westwing](https://www.westwing.com.br/) as a Jr Data Analyst
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-arai-047b761a4/)
 [![Website](https://img.shields.io/badge/-Website-orange)](https://gabrielarai02.netlify.app/)
